@@ -7,5 +7,5 @@ console.log(elementImg)
 // cambiare l'img con la lampadina accesa
 elementClick.addEventListener('click', function () {
     elementImg.src = 'img/yellow_lamp.png';
-    elementImg.alt = 'Meme di Gaetano documentazione';
+    elementImg.alt = 'lampadina spenta';
 })
